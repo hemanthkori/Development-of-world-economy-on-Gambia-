@@ -1,15 +1,3 @@
-# Move PPT file into your project folder
-mv my_presentation.pptx path/to/repo/
 
-# Go to repo
-cd path/to/repo
 
-# Stage the file
-git add my_presentation.pptx
-
-# Commit the file
-git commit -m "Add presentation"
-
-# Push to GitHub
-git push origin main
 
